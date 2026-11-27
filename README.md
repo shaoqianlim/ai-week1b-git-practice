@@ -63,3 +63,10 @@ git push -u origin add-about-me
 
 Put the link to your **merged pull request** in your Week 1b tutorial file and submit it on
 [eQIU](https://eqiu.qiu.edu.my/course/view.php?id=7852).
+
+## About me
+
+- **Name:LIM SHAO QIAN**
+- **Programme:Bachelor of Computer Science**
+- **One AI topic I am curious about: Agentic AI and autonomous systems**
+- **Why it interests me (one sentence): Unlike traditional chatbots that simply generate text responses, AI agents can independently interact with tools, execute code, and carry out multi-step real-world tasks on a user's behalf.**
