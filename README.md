@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# AI Week 1b: Git and GitHub Practice :)
+# AI Week 1b: Git and GitHub Practice
 =======
 # AI Week 1b: Git and GitHub Practice :D asds
 >>>>>>> conflict-practice
