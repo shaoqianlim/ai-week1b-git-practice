@@ -1,4 +1,4 @@
-# AI Week 1b: Git and GitHub Practice
+# AI Week 1b: Git and GitHub Practice :D
 
 **Quest International University** · Artificial Intelligence (BCS2044 / BCS2143 / BME4123)
 Lecturer: Assoc. Prof. Ir. Ts. Dr. Mah Siew Kien
